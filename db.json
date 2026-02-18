@@ -1,0 +1,74 @@
+{
+  "feature-flags": [
+    {
+      "id": "1",
+      "name": "dark-mode",
+      "environment": "production",
+      "enabled": false,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "new-onboarding-flow",
+      "environment": "staging",
+      "enabled": false,
+      "createdAt": "2024-02-01T09:30:00Z"
+    },
+    {
+      "id": "3",
+      "name": "ai-recommendations",
+      "environment": "development",
+      "enabled": true,
+      "createdAt": "2024-02-10T14:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "beta-checkout",
+      "environment": "staging",
+      "enabled": false,
+      "createdAt": "2024-02-20T11:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "legacy-api",
+      "environment": "production",
+      "enabled": false,
+      "createdAt": "2024-01-05T08:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "experimental-search",
+      "environment": "development",
+      "enabled": true,
+      "createdAt": "2024-03-01T16:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "real-time-notifications",
+      "environment": "production",
+      "enabled": false,
+      "createdAt": "2024-03-10T13:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "multi-currency",
+      "environment": "staging",
+      "enabled": false,
+      "createdAt": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "sso-login",
+      "environment": "development",
+      "enabled": true,
+      "createdAt": "2024-03-20T09:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "analytics-v2",
+      "environment": "production",
+      "enabled": false,
+      "createdAt": "2024-03-25T12:00:00Z"
+    }
+  ]
+}
